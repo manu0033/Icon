@@ -1,21 +1,18 @@
-Caso di Studio: Ingegneria della Conoscenza
+# Caso di Studio: Ingegneria Della Conoscenza
+Per lo sviluppo del progetto è stato utilizzato Visual Studio Code, grazie alle sue funzionalità avanzate per la gestione del codice e l'integrazione con diversi strumenti di sviluppo.
 
-Per lo sviluppo del progetto è stato impiegato Visual Studio Code, scelto per le sue caratteristiche avanzate che semplificano la gestione del codice e l’integrazione con numerosi strumenti di supporto allo sviluppo.
+# Struttura della Repository: 
+La repository del progetto è organizzata in diverse cartelle e file:
 
-Organizzazione della Repository
+*code* : contiene tutti i file sorgente necessari per l’esecuzione del caso di studio. Per avviare il progetto, eseguire il file 'main.py'.
 
-La struttura del repository è suddivisa in cartelle e file principali:
+*datasets* : raccoglie tutti i dataset utilizzati nel progetto, salvati in formato CSV.
 
-code: contiene i file sorgente necessari all’esecuzione del progetto. L’avvio avviene tramite il file main.py.
+*requirements.txt* : elenca tutte le librerie e dipendenze necessarie per il corretto funzionamento del progetto, consentendo una facile installazione dell’ambiente di sviluppo.
 
-datasets: raccoglie i dataset utilizzati, memorizzati in formato CSV.
+# Ulteriori dettagli tecnici:
+-La repository è gestita su GitHub, consentendo il versionamento del codice e una collaborazione efficiente tra i membri del team.
 
-requirements.txt: specifica le librerie e dipendenze richieste, permettendo di configurare rapidamente l’ambiente di lavoro.
+-Sono state utilizzate varie librerie di data science e machine learning per l’analisi e la classificazione dei dati.
 
-Dettagli Tecnici
-
-La repository è ospitata su GitHub, garantendo versionamento del codice e collaborazione agevole tra i membri del gruppo.
-
-Sono state integrate diverse librerie di data science e machine learning per svolgere attività di analisi e classificazione.
-
-Il codice è stato strutturato secondo buone pratiche di sviluppo: suddivisione modulare, utilizzo di ambienti virtuali e gestione ordinata delle dipendenze.
+-Sono state implementate best practices di programmazione, inclusa la modularizzazione del codice e l’uso di ambienti virtuali per una gestione più pulita delle dipendenze.
